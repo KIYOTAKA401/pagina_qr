@@ -2,4 +2,4 @@ opencv-python-headless
 pyzbar
 requests
 streamlit
-supabase-py
+git+https://github.com/supabase-community/supabase-py
