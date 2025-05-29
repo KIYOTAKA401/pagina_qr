@@ -3,4 +3,3 @@ pyzbar
 requests
 streamlit
 supabase
-json
