@@ -4,7 +4,7 @@ import requests
 
 # URL de la tabla Supabase REST
 SUPABASE_URL = "https://azwanfinaeztivngsnlv.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."  # Reemplaza con tu llave real
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF6d2FuZmluYWV6dGl2bmdzbmx2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg0OTE0MDEsImV4cCI6MjA2NDA2NzQwMX0.w9QmRZh_dro2xd9J85NYHamgzOkaKGXDN01SwCbdkEI"  # Reemplaza con tu llave real
 
 HEADERS = {
     "apikey": SUPABASE_KEY,
