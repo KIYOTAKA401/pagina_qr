@@ -1,9 +1,4 @@
 streamlit 
-json
-requests
-time
-qrcode
-PIL
-cv2
-pyzbar
-os
+requests 
+qrcode 
+pillow
