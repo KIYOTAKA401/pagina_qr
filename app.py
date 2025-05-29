@@ -4,7 +4,7 @@ import json
 
 # Conexión a Supabase
 URL = "https://azwanfinaeztivngsnlv.supabase.co"
-KEY = "YOUR_SUPABASE_API_KEY"
+KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF6d2FuZmluYWV6dGl2bmdzbmx2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg0OTE0MDEsImV4cCI6MjA2NDA2NzQwMX0.w9QmRZh_dro2xd9J85NYHamgzOkaKGXDN01SwCbdkEI"
 supabase: Client = create_client(URL, KEY)
 
 st.title("📥 Registro QR en Supabase")
