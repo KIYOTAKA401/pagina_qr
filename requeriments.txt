@@ -1,6 +1,9 @@
-streamlit
-opencv-python-headless
-pyzbar
+streamlit 
+json
 requests
-numpy
-Pillow
+time
+qrcode
+PIL
+cv2
+pyzbar
+os
