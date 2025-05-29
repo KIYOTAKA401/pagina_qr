@@ -3,7 +3,7 @@ from supabase import create_client, Client
 import json
 
 # Conexión a Supabase
-URL = "https://YOUR_PROJECT.supabase.co"
+URL = "https://azwanfinaeztivngsnlv.supabase.co"
 KEY = "YOUR_SUPABASE_API_KEY"
 supabase: Client = create_client(URL, KEY)
 
